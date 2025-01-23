@@ -20,6 +20,9 @@ book:
     - part: "Cameras"
       chapters:
       - Bushnell Camera_SOP.qmd
+    - part: "Flow"
+      chapters:
+      - SVMAQ SOP.qmd
 
 format:
   html:
