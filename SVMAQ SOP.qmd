@@ -1,0 +1,236 @@
+---
+title: "SVMAQ SOP"
+author: "Michael Hayden"
+format: 
+  html: 
+    self-contained: true
+editor: visual
+---
+
+The following are necessary steps to create a SVMAQ Document for upload to Aquarius
+
+# Fill out site information
+
+## **Page you open with.**
+
+![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_01_Opening.png)
+
+## Fill In General Information
+
+![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_02_Opening half filled.png)
+
+-   **STATION** ( Site Number, ie Avery Brook **01171000** )
+-   **Station Name** - (Auto Fills)
+-   **Date** ( Date of gage visit )
+-   **Time** ( Time of Arrival at Gage ) ( Don't change for Daylight vs Non Daylight )
+-   **Party** ( Initials of all personal present for site visit )
+
+WEA
+
+![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_03_Weather.png)
+
+1.  Filled out
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_03.5_Weather Filled.png)
+
+2.  **Comments**
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_04_Opening Filled.png)
+
+    1.  **Options**
+        1.  **Site Visit** = ( Tape Down, Control Inspection )
+        2.  **QM** = ( Flow Measurement )
+        3.  **GHZF** = ( Gage Height at Zero Flow )
+        4.  **CSG** = ( Crest Stage Gage - Bucket Test, and Read )
+        5.  **Levels** = Level Set Done
+        6.  **Camera Download** = ( FPE camera was downloaded. )
+    2.  Comment on anything that will be valuable to an accurate discharge monitoring.
+        1.  Tree blocking control.
+
+        2.  Gage fallen.
+
+3.  **Save File**
+
+    1.  Click **File** then **Save As...**
+
+        ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_4.1_SaveFile.png)
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_4.2_SaveFile2.png)
+
+    1.  File Gets Saved .
+
+        1.  Site Number ( 01171000 )
+
+        2.  Date ( 20220604 )
+
+        3.  Start Time ( 102900 )
+
+        ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_4.3_SaveFile3.png)
+
+    # SITE VISIT TASKS
+
+    -   Click on Button in bottom right of screen **SITE VISIT TASKS**
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_05_Options.png)
+
+    -   **Options**
+        -   **GZF Inspection** - Gage Height at Zero Flow
+
+        -   **Control Inspection** - Where you enter weather the control is blocked.
+
+        -   **Sensor Inspections** - Put your Stage readings in whether it be from a reference point or a real time sensor.
+
+            -   **CSG Data** will go in here.
+
+        -   **Station Levels** - Both where levels are entered and all RP and RM values are stored.
+
+        -   **Discharge Measurement** - Where both flow tracker files is stored and any information corresponding to the sensor.
+    -   **Tip**
+        -   To get into any tab just click on yellow box.
+
+    ## **Control Inspection**
+
+    1.  **Blank**
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_06_Control Conditions Blank.png)
+
+    2.  **Filled**
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_06_Control Conditions Filled.png)
+
+    1.  **Options**
+
+        1.  **Control Type** ( Section, Channel , Combined chan/sect )
+
+            1.  **Section**
+
+                ![](Documents/StreamGaging/SVMAQ SOP/SitePhotos/Section Control.png)
+
+            2.  **Channel**
+
+                ![](Documents/StreamGaging/SVMAQ SOP/SitePhotos/Channel Control.png)
+
+        2.  **Distance to gage (ft)** - How far away the control is from the sensor.
+
+        3.  **Control Cleaned** - If there is debris blocking the flow of water through the control was it removed?
+
+            1.  If Yes specify the Time debris was removed.
+
+        4.  **Control Condition**
+
+            1.  If control was clear select Clear.
+
+            2.  If control was not specify the type of debris and degree it was blocking the control.
+
+        5.  **Comments**
+
+            1.  If control was clear write "Control was Clear"
+
+            2.  If control was not clear write what was affecting it.
+
+            3.  If control has changed note that too. ( Scour, Fill or Channel Shape has changed.)
+
+4.  **Sensor Inspection**
+
+    1.  Click on **Sensor Inspections**.
+
+        ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_10_SensorInspection.png)
+
+    2.  **Math Entry**
+
+        1.  We do this with our initial gage height reading from a RP to make sure the math is correct.
+
+        2.  Highlight Line with **RP** then click **Create/View Inspection.**
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_11_Inspection View.png)
+
+        3.  By pressing this, a panel containing a blank sheet to do the mathematics calculation of gage height will open.
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_12_Black Math Page.png)
+
+        4.  **What to enter**
+
+            1.  RP Value with label ( **4.892 (RP-1)** )
+
+            2.  -/+ depending if it was a Tape Up or Tape Down ( **-** )
+
+            3.  Tape Up or Down Value ( **1.00** )
+
+            4.  Value Not Rounded to Hundredth of a foot. ( **3.892** )
+
+            5.  Rounded Value ( **3.89** )
+
+        5.  **Finished Entry**
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_13_Filled Math Page.png)
+
+    3.  **Sensor Heights Entry**
+
+        1.  Highlight RP Line and Click on Gage Readings
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_10_SensorInspection.png)
+
+        2.  Page with all the sensors that measure gage height corresponding to a gage.
+
+        3.  Click on the box below **RP Gage height Gage height, reference point ft.**
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_15_SensorInspection Value Blank.png)
+
+        4.  Enter in Initial Gage Height value from RP. **3.88** and click **DONE**
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_16_Value Entry.png)
+
+        5.  Next Enter both
+
+            1.  **Time of Reading**
+
+            2.  **Uncertainty** to the left of units. This is how uncertain you are about your measurement. It will increase if the water is bobbing up and down like in a large storm.
+
+                1.  For this visit the the water was bobbing slightly so I am +/- 0.02 uncertainty about my measured value of 1.00 foot.
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_017_PR Entry.png)
+
+        6.  When done click **ADD**
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_18_RP Filled.png)
+
+        7.  For **Real Time Only** If not Skip to Step 8.
+
+            1.  If sensor reading was at same time as Initial RP enter on same line. If not enter on new line.
+
+            2.  Click on box corresponding to sensor read and enter value read, time but not uncertainty.
+
+            3.  When done click add.
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_19_RealTime First Filled.png)
+
+        8.  Repeat Steps 3-7 until all sensor values are entered.
+
+        9.  When all values are entered hit **Done.**
+
+            ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_20_All Values entered.png)
+
+5.  **GHZ Inspection**
+
+    1.  **Blank**
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_07_Gage Height at Zero Flow Blank.png)
+
+    2.  **Filled**
+        1.  **Options**
+
+            1.  **Time** - Time GHZF was taken.
+
+            2.  **Stage (ft)** - Stage at time of GHZF measurement
+
+            3.  **Water Depth (ft)** - water depth of GHZF
+
+                1.  Uncertainty of the water depth measurement.
+
+            4.  **GZF (ft)** - **Auto Fills** base off Stage and Water Depth Values
+
+            5.  **Comment** - Tell where in the control the GHZF was taken.
+
+    ![](Documents/StreamGaging/SVMAQ SOP/SVMAQ_SOP Photos/SVMAQ_08_Gage Height at Zero Flow Filled.png)
+
+6.  Options
