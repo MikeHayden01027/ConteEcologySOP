@@ -19,5 +19,38 @@
       "Cameras",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Bushnell Camera Guide</span>"
     ]
+  },
+  {
+    "objectID": "SVMAQ SOP.html",
+    "href": "SVMAQ SOP.html",
+    "title": "3  SVMAQ SOP",
+    "section": "",
+    "text": "4 Fill out site information",
+    "crumbs": [
+      "Flow",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>SVMAQ SOP</span>"
+    ]
+  },
+  {
+    "objectID": "SVMAQ SOP.html#page-you-open-with.",
+    "href": "SVMAQ SOP.html#page-you-open-with.",
+    "title": "3  SVMAQ SOP",
+    "section": "4.1 Page you open with.",
+    "text": "4.1 Page you open with.",
+    "crumbs": [
+      "Flow",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>SVMAQ SOP</span>"
+    ]
+  },
+  {
+    "objectID": "SVMAQ SOP.html#fill-in-general-information",
+    "href": "SVMAQ SOP.html#fill-in-general-information",
+    "title": "3  SVMAQ SOP",
+    "section": "4.2 Fill In General Information",
+    "text": "4.2 Fill In General Information\n\n\nSTATION ( Site Number, ie Avery Brook 01171000 )\nStation Name - (Auto Fills)\nDate ( Date of gage visit )\nTime ( Time of Arrival at Gage ) ( Don’t change for Daylight vs Non Daylight )\nParty ( Initials of all personal present for site visit )\n\nWEA\n\n\nFilled out\n\nComments\n\n\nOptions\n\nSite Visit = ( Tape Down, Control Inspection )\nQM = ( Flow Measurement )\nGHZF = ( Gage Height at Zero Flow )\nCSG = ( Crest Stage Gage - Bucket Test, and Read )\nLevels = Level Set Done\nCamera Download = ( FPE camera was downloaded. )\n\nComment on anything that will be valuable to an accurate discharge monitoring.\n\nTree blocking control.\nGage fallen.\n\n\nSave File\n\nClick File then Save As…\n\n\n\n\nFile Gets Saved .\n\nSite Number ( 01171000 )\nDate ( 20220604 )\nStart Time ( 102900 )\n\n\n\n5 SITE VISIT TASKS\n\nClick on Button in bottom right of screen SITE VISIT TASKS\n\n\n\nOptions\n\nGZF Inspection - Gage Height at Zero Flow\nControl Inspection - Where you enter weather the control is blocked.\nSensor Inspections - Put your Stage readings in whether it be from a reference point or a real time sensor.\n\nCSG Data will go in here.\n\nStation Levels - Both where levels are entered and all RP and RM values are stored.\nDischarge Measurement - Where both flow tracker files is stored and any information corresponding to the sensor.\n\nTip\n\nTo get into any tab just click on yellow box.\n\n\n5.1 Control Inspection\n\nBlank\n\n\n\nFilled\n\n\n\nOptions\n\nControl Type ( Section, Channel , Combined chan/sect )\n\nSection\n\nChannel\n\n\nDistance to gage (ft) - How far away the control is from the sensor.\nControl Cleaned - If there is debris blocking the flow of water through the control was it removed?\n\nIf Yes specify the Time debris was removed.\n\nControl Condition\n\nIf control was clear select Clear.\nIf control was not specify the type of debris and degree it was blocking the control.\n\nComments\n\nIf control was clear write “Control was Clear”\nIf control was not clear write what was affecting it.\nIf control has changed note that too. ( Scour, Fill or Channel Shape has changed.)\n\n\n\nSensor Inspection\n\nClick on Sensor Inspections.\n\nMath Entry\n\nWe do this with our initial gage height reading from a RP to make sure the math is correct.\nHighlight Line with RP then click Create/View Inspection.\n\nBy pressing this, a panel containing a blank sheet to do the mathematics calculation of gage height will open.\n\nWhat to enter\n\nRP Value with label ( 4.892 (RP-1) )\n-/+ depending if it was a Tape Up or Tape Down ( - )\nTape Up or Down Value ( 1.00 )\nValue Not Rounded to Hundredth of a foot. ( 3.892 )\nRounded Value ( 3.89 )\n\nFinished Entry\n\n\nSensor Heights Entry\n\nHighlight RP Line and Click on Gage Readings\n\nPage with all the sensors that measure gage height corresponding to a gage.\nClick on the box below RP Gage height Gage height, reference point ft.\n\nEnter in Initial Gage Height value from RP. 3.88 and click DONE\n\nNext Enter both\n\nTime of Reading\nUncertainty to the left of units. This is how uncertain you are about your measurement. It will increase if the water is bobbing up and down like in a large storm.\n\nFor this visit the the water was bobbing slightly so I am +/- 0.02 uncertainty about my measured value of 1.00 foot.\n\n\n\nWhen done click ADD\n\nFor Real Time Only If not Skip to Step 8.\n\nIf sensor reading was at same time as Initial RP enter on same line. If not enter on new line.\nClick on box corresponding to sensor read and enter value read, time but not uncertainty.\nWhen done click add.\n\n\nRepeat Steps 3-7 until all sensor values are entered.\nWhen all values are entered hit Done.\n\n\n\nGHZ Inspection\n\nBlank\n\n\n\nFilled\n\nOptions\n\nTime - Time GHZF was taken.\nStage (ft) - Stage at time of GHZF measurement\nWater Depth (ft) - water depth of GHZF\n\nUncertainty of the water depth measurement.\n\nGZF (ft) - Auto Fills base off Stage and Water Depth Values\nComment - Tell where in the control the GHZF was taken.\n\n\n\n\nOptions",
+    "crumbs": [
+      "Flow",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>SVMAQ SOP</span>"
+    ]
   }
 ]
